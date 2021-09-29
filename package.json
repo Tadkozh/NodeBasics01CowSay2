@@ -1,0 +1,23 @@
+{
+  "name": "nodebasics01cowsay2",
+  "version": "1.0.0",
+  "description": "speaking cow",
+  "main": "index.js",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tadkozh/NodeBasics01CowSay2.git"
+  },
+  "author": "FC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tadkozh/NodeBasics01CowSay2/issues"
+  },
+  "homepage": "https://github.com/Tadkozh/NodeBasics01CowSay2#readme"
+}
